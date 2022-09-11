@@ -5,7 +5,7 @@ import plansData from "../../data/plansData";
  
 const Plan = () => {
   return (
-    <div className="plan-container">
+    <div className="plan-container"  id='plans'>
 <div className="blur plan-blur-1"></div>
 <div className="blur plan-blur-2"></div>
 

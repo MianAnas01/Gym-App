@@ -4,7 +4,7 @@ import programsData from "../../data/programsData";
 import rightArrow from "../../assets/rightArrow.png"
 const Program = () => {
   return (
-  <div className="Program"  id="program">
+  <div className="Program"  id="programs">
     {/* header */}
     <div className="programs-header">
 <span className='stroke-text'>explore our</span>
